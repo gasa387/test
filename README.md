@@ -3,5 +3,5 @@ test
 
 First line
 
-Heading
+Heading 2
 =======

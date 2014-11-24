@@ -2,3 +2,6 @@ test
 ====
 
 First line
+
+Heading
+=======
